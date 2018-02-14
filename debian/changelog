@@ -1,3 +1,10 @@
+coreutils (8.25-2ubuntu3~16.04) xenial-proposed; urgency=medium
+
+  * SRU: LP: #1667407. Add -fno-schedule-insns to CFLAGS for sha256.o
+    on ppc64el to fix performance regression.
+
+ -- Matthias Klose <doko@ubuntu.com>  Tue, 28 Feb 2017 10:18:46 +0100
+
 coreutils (8.25-2ubuntu2bb1) UNRELEASED; urgency=medium
 
   * Balabit patched version
