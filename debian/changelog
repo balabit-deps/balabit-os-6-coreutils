@@ -1,3 +1,9 @@
+coreutils (8.25-2ubuntu3~16.04bb1) xenial; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Wed, 14 Feb 2018 19:00:02 +0100
+
 coreutils (8.25-2ubuntu3~16.04) xenial-proposed; urgency=medium
 
   * SRU: LP: #1667407. Add -fno-schedule-insns to CFLAGS for sha256.o
